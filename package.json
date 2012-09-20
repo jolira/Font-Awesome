@@ -1,0 +1,19 @@
+{
+    "name":"jolira-font-awesome",
+    "description":"The iconic font designed for use with Twitter Bootstrap; adopted for the site-manager", "version":"2.0.0", "keywords":["bootstrap", "css", "Twitter", "icon", "font", "awesome"], "homepage":"http://fortawesome.github.com/Font-Awesome/",
+    "author":"Dave Gandy <dave@davegandy.com> (http://twitter.com/fortaweso_me)",
+    "contributors":[
+        "Gabriel Hopper <gabe@jolira.com> (http://www.jolira.com)"
+    ],
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/jolira/Font-Awesome.git"
+    },
+    "licenses":[
+        {
+            "type":"CC-BY-3.0",
+            "url":"http://creativecommons.org/licenses/by/3.0/"
+        }
+    ],
+    "main":"index"
+}
